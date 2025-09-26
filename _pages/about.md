@@ -20,7 +20,7 @@ redirect_from:
 
 Hi! I am Hanyu Pei, a first-year Ph.D. student in the Department of Computer Science and Engineering at the University of Louisville. I am fortunate to be advised by <a href='https://liuzey.com/' target='_blank'>Prof. Zeyan Liu</a>.
 
-I obtained my M.Sc. in Mathematics from the Chinese University of Hong Kong (CUHK) in 2023, and my B.Sc. in Statistics from Wuhan University of Technology in 2022. I was honored to work as a Research Assistant with <a href='https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html/' target='_blank'>Prof. Fenglei Fan</a> (CityU) and <a href='https://www.bendai.org/' target='_blank'>Prof. Ben Dai</a> (CUHK).
+I obtained my M.Sc. in Mathematics from the Chinese University of Hong Kong (CUHK) in 2023, and my B.Sc. in Statistics from Wuhan University of Technology in 2022. I was honored to work as a Research Assistant with <a href='https://fengleifan.github.io/Feng-Lei.Fan.github.io/' target='_blank'>Prof. Fenglei Fan</a> (CityU) and <a href='https://www.bendai.org/' target='_blank'>Prof. Ben Dai</a> (CUHK).
 
 My research focuses on **Deep Learning**, **Large Language Models (LLMs)**, and **AI Security**. I am particularly interested in developing novel algorithms to enhance the robustness and reliability of AI systems. For research inquiries, please feel free to contact me at <hanyu.pei@louisville.edu>.
 
@@ -41,7 +41,7 @@ My research focuses on **Deep Learning**, **Large Language Models (LLMs)**, and 
   *arXiv preprint arXiv:2507.10615, 2025*
 
 * **NeuronSeek: On Stability and Expressivity of Task-driven Neurons**<br>
-  <strong>H Pei</strong>, JX Liao<sup>*</sup>, Q Zhao, T Gao, S Zhang, X Zhang, FL Fan<br>
+  <strong>H Pei</strong>, JX Liao*, Q Zhao, T Gao, S Zhang, X Zhang, FL Fan<br>
   *arXiv preprint arXiv:2506.15715, 2025*
 
 <p><small>* Denotes equal contribution.</small></p>
@@ -54,4 +54,4 @@ My research focuses on **Deep Learning**, **Large Language Models (LLMs)**, and 
 
 
 # 💻 Internships
-- *2020.06 - 2020.09*, ChinaUnionPay, China.
+- *2020.06 - 2020.09*, China UnionPay, China.
