@@ -17,42 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi! I am Hanyu Pei, a first-year Ph.D. student in the Department of Computer Science and Engineering at the University of Louisville. I am fortunate to be advised by <a href='https://liuzey.com/' target='_blank'>Prof. Zeyan Liu</a>.
+
+I obtained my M.Sc. in Mathematics from the Chinese University of Hong Kong (CUHK) in 2023, and my B.Sc. in Statistics from Wuhan University of Technology in 2022. I was honored to work as a Research Assistant with <a href='https://fengleifan.github.io/Feng-Lei.Fan.github.io/about.html/' target='_blank'>Prof. Fenglei Fan</a> (CityU) and <a href='https://www.bendai.org/' target='_blank'>Prof. Ben Dai</a> (CUHK).
+
+My research focuses on **Deep Learning**, **Large Language Models (LLMs)**, and **AI Security**. I am particularly interested in developing novel algorithms to enhance the robustness and reliability of AI systems. For research inquiries, please feel free to contact me at <hanyu.pei@louisville.edu>.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* **September 2025**: I join Prof. Zeyan Liu's team in University of Louisville!
+* **June 2025**: My first paper: [NeuronSeek: On Stability and Expressivity of Task-driven Neurons](https://arxiv.org/abs/2506.15715) can be viewed on arXiv!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+* **COLI: A Hierarchical Efficient Compressor for Large Images**<br>
+  H Wang, <strong>H Pei</strong>, Y Lyu, K Zhang, L Li, FL Fan<br>
+  *arXiv preprint arXiv:2507.11443, 2025*
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+* **A Survey on Medical Image Compression: From Traditional to Learning-Based**<br>
+  G Tong, S Liu, Y Lv, <strong>H Pei</strong>, FL Fan<br>
+  *arXiv preprint arXiv:2507.10615, 2025*
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+* **NeuronSeek: On Stability and Expressivity of Task-driven Neurons**<br>
+  <strong>H Pei</strong>, JX Liao<sup>*</sup>, Q Zhao, T Gao, S Zhang, X Zhang, FL Fan<br>
+  *arXiv preprint arXiv:2506.15715, 2025*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<p><small>* Denotes equal contribution.</small></p>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* **Aug 2025 - present**: Ph.D. in Computer Science and Engineering, University of Louisville
+* **August 2022 - December 2023**: M.Sc. in Mathematics, The Chinese University of Hong Kong
+* **September 2018 - June 2022**: B.Sc. in Statistics, Wuhan University of Technology
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.06 - 2020.09*, ChinaUnionPay, China.
