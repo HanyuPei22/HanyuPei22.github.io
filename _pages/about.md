@@ -33,7 +33,7 @@ My research focuses on **Deep Learning**, **Large Language Models (LLMs)**, and 
 # 📝 Publications 
 
 * **ShallowJail: Steering Jailbreaks against Large Language Models**<br>
-  S Liu, <strong>H Pei</strong>, Y Lyu, K Zhang, L Li, FL Fan<br>
+  S Liu, <strong>H Pei</strong>, Z liu<br>
   *arXiv preprint arXiv:2507.11443, 2025*
 
 * **COLI: A Hierarchical Efficient Compressor for Large Images**<br>
@@ -45,7 +45,7 @@ My research focuses on **Deep Learning**, **Large Language Models (LLMs)**, and 
   *arXiv preprint arXiv:2507.10615, 2025*
 
 * **NeuronSeek: On Stability and Expressivity of Task-driven Neurons**<br>
-  <strong>H Pei</strong>, JX Liao*, Q Zhao, T Gao, S Zhang, X Zhang, FL Fan<br>
+  <strong>H Pei</strong>, JX Liao *, Q Zhao, T Gao, S Zhang, X Zhang, FL Fan<br>
   *arXiv preprint arXiv:2506.15715, 2025*
 
 <p><small>* Denotes equal contribution.</small></p>
