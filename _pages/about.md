@@ -28,14 +28,9 @@ My research focuses on **Deep Learning**, **Large Language Models (LLMs)**, and 
 
 # 🔥 News
 
-* **September 2026**: [TNLearn: An Open Source Python Package for Task-based Neurons](https://arxiv.org/abs/2609.27564) is available on arXiv!
-* **August 2026**: [presto: Efficient, Training-free, and Open-world Object Placement via Imaginary Search](https://arxiv.org/abs/2608.21543), accepted to ICONIP 2026, is available on arXiv!
-* **May 2026**: [LymphNode: A Plug-and-Play Access Control Method for Deep Neural Networks](https://arxiv.org/abs/2605.16227), accepted to DSN 2026, is available on arXiv!
 * **April 2026**: [A Survey on Medical Image Compression: From Traditional to Learning-Based Approaches](https://doi.org/10.1109/TRPMS.2026.3689359) is published online in IEEE Transactions on Radiation and Plasma Medical Sciences!
-* **February 2026**: [ShallowJail: Steering Jailbreaks against Large Language Models](https://arxiv.org/abs/2602.07107) is available on arXiv!
 * **January 2026**: [COLI: A Hierarchical Efficient Compressor for Large Images](https://doi.org/10.1109/TRPMS.2026.3656325) is published online in IEEE Transactions on Radiation and Plasma Medical Sciences!
 * **September 2025**: I join Prof. Zeyan Liu's team in University of Louisville!
-* **June 2025**: My first paper: [NeuronSeek: On Stability and Expressivity of Task-driven Neurons](https://arxiv.org/abs/2506.15715) can be viewed on arXiv!
 
 # 📝 Publications 
 
