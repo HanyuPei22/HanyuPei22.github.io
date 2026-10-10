@@ -70,7 +70,7 @@ My research focuses on **Deep Learning**, **Large Language Models (LLMs)**, and 
   [Publication](https://doi.org/10.1109/TRPMS.2026.3656325) | [arXiv](https://arxiv.org/abs/2507.11443)
 
 * **NeuronSeek: On Stability and Expressivity of Task-driven Neurons**<br>
-  <strong>Hanyu Pei</strong>, Jing-Xiao Liao <sup>*</sup>, Qibin Zhao, Ting Gao, Shijun Zhang, Xiaoge Zhang, Feng-Lei Fan<br>
+  <strong>Hanyu Pei</strong>, Jing-Xiao Liao <sup>&#42;</sup>, Qibin Zhao, Ting Gao, Shijun Zhang, Xiaoge Zhang, Feng-Lei Fan<br>
   *arXiv preprint arXiv:2506.15715, 2025*<br>
   [Paper](https://arxiv.org/abs/2506.15715)
 
