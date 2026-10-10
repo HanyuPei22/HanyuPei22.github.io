@@ -16,7 +16,7 @@ redirect_from:
       <h1 id="profile-name">Hanyu Pei<span aria-hidden="true">.</span></h1>
       <p class="hero-title">Researching machine learning<br>and AI security.</p>
       <p class="hero-summary">I am a Ph.D. student at the University of Louisville, advised by <a class="inline-link" href="https://liuzey.com/" target="_blank" rel="noopener noreferrer">Prof. Zeyan Liu</a>. My research interests lie in machine learning and AI security.</p>
-      <div class="hero-actions"><a class="button-primary" href="#-publications">Explore publications <span aria-hidden="true">↓</span></a><a class="text-link" href="mailto:hanyu.pei@louisville.edu">Get in touch <span aria-hidden="true">↗</span></a></div>
+      <div class="hero-actions"><a class="button-primary" href="#-publications">Explore publications <span aria-hidden="true">↓</span></a><a class="text-link" href="#contact">Get in touch <span aria-hidden="true">↗</span></a></div>
       <div class="social-links" aria-label="Research profiles">
         <a class="external" href="https://scholar.google.com/citations?user=gDhwiFYAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
         <a class="external" href="https://github.com/HanyuPei22" target="_blank" rel="noopener noreferrer">GitHub</a>
