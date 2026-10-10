@@ -2,7 +2,7 @@
 layout: profile
 permalink: /
 title: "Hanyu Pei"
-excerpt: "Deep learning, large language models, and AI security."
+excerpt: "Machine learning and AI security, with interests in reinforcement learning, coding agents, machine unlearning, and neural architectures."
 author_profile: false
 redirect_from:
   - /about/
@@ -14,8 +14,8 @@ redirect_from:
     <div class="hero-copy">
       <p class="eyebrow">COMPUTER SCIENCE &amp; ENGINEERING</p>
       <h1 id="profile-name">Hanyu Pei<span aria-hidden="true">.</span></h1>
-      <p class="hero-title">Researching reliable<br>intelligent systems.</p>
-      <p class="hero-summary">I am a Ph.D. student at the University of Louisville, advised by <a class="inline-link" href="https://liuzey.com/" target="_blank" rel="noopener noreferrer">Prof. Zeyan Liu</a>. My research spans deep learning, large language models, and AI security.</p>
+      <p class="hero-title">Researching machine learning<br>and AI security.</p>
+      <p class="hero-summary">I am a Ph.D. student at the University of Louisville, advised by <a class="inline-link" href="https://liuzey.com/" target="_blank" rel="noopener noreferrer">Prof. Zeyan Liu</a>. My research interests lie in machine learning and AI security.</p>
       <div class="hero-actions"><a class="button-primary" href="#-publications">Explore publications <span aria-hidden="true">↓</span></a><a class="text-link" href="mailto:hanyu.pei@louisville.edu">Get in touch <span aria-hidden="true">↗</span></a></div>
       <div class="social-links" aria-label="Research profiles">
         <a class="external" href="https://scholar.google.com/citations?user=gDhwiFYAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
@@ -27,10 +27,10 @@ redirect_from:
     </div>
     <figure class="portrait"><div class="portrait-frame"><img src="/images/selfie.jpg" alt="Hanyu Pei" width="1200" height="1500" fetchpriority="high"></div><figcaption><strong>Ph.D. Student · University of Louisville</strong><span>Louisville, Kentucky, USA</span></figcaption></figure>
   </section>
-  <div class="focus-bar"><span class="eyebrow">RESEARCH FOCUS</span><div class="focus-items"><span>Deep Learning</span><span>Large Language Models</span><span>AI Security</span></div></div>
+  <div class="focus-bar"><div class="focus-items"><span>Reinforcement Learning</span><span>Coding Agents</span><span>AI Security</span><span>Machine Unlearning</span><span>Neural Architectures</span></div></div>
   <section class="section section-grid" aria-labelledby="about-heading">
     <div class="section-heading"><p class="eyebrow">01 / ABOUT</p><h2 id="about-heading">A little background.</h2></div>
-    <div class="about-copy"><p>I am a Ph.D. student in the Department of Computer Science and Engineering at the University of Louisville. My research focuses on developing novel algorithms to enhance the robustness and reliability of AI systems.</p><p>I obtained my <strong>M.Sc. in Mathematics</strong> from the Chinese University of Hong Kong (CUHK) in 2023, and my <strong>B.Sc. in Statistics</strong> from Wuhan University of Technology in 2022. I was honored to work as a Research Assistant with <a class="inline-link" href="https://fengleifan.github.io/Feng-Lei.Fan.github.io/" target="_blank" rel="noopener noreferrer">Prof. Fenglei Fan</a> (CityU) and <a class="inline-link" href="https://www.bendai.org/" target="_blank" rel="noopener noreferrer">Prof. Ben Dai</a> (CUHK).</p></div>
+    <div class="about-copy"><p>I am a Ph.D. student in the Department of Computer Science and Engineering at the University of Louisville. My interests include reinforcement learning, coding agents, AI security, machine unlearning, and neural architectures.</p><p>I obtained my <strong>M.Sc. in Mathematics</strong> from the Chinese University of Hong Kong (CUHK) in 2023, and my <strong>B.Sc. in Statistics</strong> from Wuhan University of Technology in 2022. I was honored to work as a Research Assistant with <a class="inline-link" href="https://fengleifan.github.io/Feng-Lei.Fan.github.io/" target="_blank" rel="noopener noreferrer">Prof. Fenglei Fan</a> (CityU) and <a class="inline-link" href="https://www.bendai.org/" target="_blank" rel="noopener noreferrer">Prof. Ben Dai</a> (CUHK).</p></div>
   </section>
 </div>
 <section class="section section-news" id="-news" aria-labelledby="news-heading">
