@@ -96,12 +96,13 @@ h1, h2, h3, p { margin: 0; }
 .paper-links a { text-decoration: underline; text-decoration-color: #b5b8ac; text-underline-offset: 4px; }
 .paper-links a:hover { text-decoration-color: var(--ink); }
 .publication-note { font-size: 11px; color: var(--muted); margin-top: 18px; }
-.section-background { border-top: 1px solid var(--line); }
+.section-background, .section-experience { border-top: 1px solid var(--line); }
 .background-subheading { font-size: 11px; text-transform: uppercase; letter-spacing: 1.5px; color: var(--muted); margin-bottom: 14px; font-weight: 600; }
 .education-item { display: flex; justify-content: space-between; gap: 24px; padding: 19px 0; border-bottom: 1px solid var(--line); }
 .education-item:first-of-type { padding-top: 0; }
 .education-item h3 { font-size: 16px; font-weight: 500; letter-spacing: -.2px; }
 .education-item p { font-size: 13px; color: var(--muted); margin-top: 4px; }
+.education-item .experience-detail { margin-top: 8px; max-width: 530px; }
 .education-item time { font-size: 11px; color: var(--muted); white-space: nowrap; padding-top: 4px; }
 .experience { margin-top: 37px; scroll-margin-top: 110px; }
 .site-footer { background: var(--ink); color: var(--paper); padding-block: 58px 24px; scroll-margin-top: 100px; }
@@ -118,7 +119,7 @@ h1, h2, h3, p { margin: 0; }
   .header-inner, .container, .footer-inner { width: calc(100% - 72px); }
   .hero { gap: 50px; grid-template-columns: minmax(0, 1fr) 220px; padding-block: 68px; }
   .portrait img { height: 270px; }
-  .site-nav { gap: 20px; }
+  .site-nav { gap: 14px; font-size: 12px; }
   .section-grid { grid-template-columns: 160px minmax(0, 1fr); gap: 35px; }
   .section-heading h2 { font-size: 32px; }
   .hero h1 { letter-spacing: -3px; }

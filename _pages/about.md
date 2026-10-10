@@ -119,7 +119,15 @@ redirect_from:
       <article class="education-item"><div><h3>University of Louisville</h3><p>Ph.D. in Computer Science and Engineering</p></div><time>Aug 2025 — Present</time></article>
       <article class="education-item"><div><h3>The Chinese University of Hong Kong</h3><p>M.Sc. in Mathematics</p></div><time>Aug 2022 — Dec 2023</time></article>
       <article class="education-item"><div><h3>Wuhan University of Technology</h3><p>B.Sc. in Statistics</p></div><time>Sep 2018 — Jun 2022</time></article>
-      <div class="experience" id="-internships"><h3 class="background-subheading">Internship</h3><article class="education-item"><div><h3>China UnionPay</h3><p>Data Analysis Intern · China</p></div><time>Jun 2020 — Sep 2020</time></article></div>
+    </div>
+  </section>
+  <section class="section section-grid section-experience" id="-experience" aria-labelledby="experience-heading">
+    <div class="section-heading"><p class="eyebrow">05 / EXPERIENCE</p><h2 id="experience-heading">Experience</h2></div>
+    <div>
+      <article class="education-item"><div><h3>University of Louisville</h3><p>Research Assistant · Louisville, Kentucky</p></div><time>Aug 2025 — Present</time></article>
+      <article class="education-item"><div><h3>City University of Hong Kong</h3><p>Research Assistant · Remote</p><p class="experience-detail">Developed symbolic regression methods for task-based neuron discovery.</p></div><time>Mar 2024 — Jun 2025</time></article>
+      <article class="education-item"><div><h3>The Chinese University of Hong Kong</h3><p>Research Assistant · Hong Kong</p><p class="experience-detail">Applied statistical inference to medical image analysis.</p></div><time>Sep 2023 — Mar 2024</time></article>
+      <article class="education-item" id="-internships"><div><h3>China UnionPay</h3><p>Data Analysis Intern · Wuhan, China</p></div><time>Jun 2021 — Sep 2021</time></article>
     </div>
   </section>
 </div>
