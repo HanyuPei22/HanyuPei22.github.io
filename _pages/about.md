@@ -114,12 +114,12 @@ redirect_from:
   </li></ol><p class="publication-note"><sup>*</sup> Denotes equal contribution. My name is shown in bold.</p></div>
   </section>
   <section class="section section-grid section-background" id="-educations" aria-labelledby="background-heading">
-    <div class="section-heading"><p class="eyebrow">04 / BACKGROUND</p><h2 id="background-heading">Along the way.</h2></div>
-    <div><h3 class="background-subheading">Education</h3>
+    <div class="section-heading"><p class="eyebrow">04 / EDUCATION</p><h2 id="background-heading">Education</h2></div>
+    <div>
       <article class="education-item"><div><h3>University of Louisville</h3><p>Ph.D. in Computer Science and Engineering</p></div><time>Aug 2025 — Present</time></article>
       <article class="education-item"><div><h3>The Chinese University of Hong Kong</h3><p>M.Sc. in Mathematics</p></div><time>Aug 2022 — Dec 2023</time></article>
       <article class="education-item"><div><h3>Wuhan University of Technology</h3><p>B.Sc. in Statistics</p></div><time>Sep 2018 — Jun 2022</time></article>
-      <div class="experience" id="-internships"><h3 class="background-subheading">Internship</h3><article class="education-item"><div><h3>China UnionPay</h3><p>China</p></div><time>Jun 2020 — Sep 2020</time></article></div>
+      <div class="experience" id="-internships"><h3 class="background-subheading">Internship</h3><article class="education-item"><div><h3>China UnionPay</h3><p>Data Analysis Intern · China</p></div><time>Jun 2020 — Sep 2020</time></article></div>
     </div>
   </section>
 </div>
